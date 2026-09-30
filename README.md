@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**radeschi/radeschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Maicon Radeschi**, an IT Infrastructure Engineer focused on building, operating and automating reliable infrastructure.
 
-Here are some ideas to get you started:
+### 🔭 What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐧 Linux & Unix systems
+- 🌐 Networking & Security
+- 🖥️ Virtualization & Proxmox
+- 🐘 PostgreSQL & Database Infrastructure
+- 📦 Docker & Containerization
+- ☁️ Infrastructure & Automation
+- 🔐 Security & Data Protection
+- ⚙️ Monitoring, Backup & High Availability
+
+### 🌱 Currently exploring
+
+- 🦀 Rust
+- ⚛️ TypeScript / React
+- 🛠️ Infrastructure as Code
+- 🔐 Cryptography & secure applications
+- 🤖 AI / Local LLM infrastructure
+
+### 🔨 Projects
+
+**[Crypt8](https://github.com/radeschi/Crypt8)**  
+Cross-platform file encryption application built with Rust and OpenPGP.
+
+### 💬 Ask me about
+
+Linux, networking, virtualization, PostgreSQL, Proxmox, infrastructure, security and automation.
+
+### 📫 Find me
+
+[LinkedIn](https://www.linkedin.com/in/radeschi/)
+[Website](https://radeschi.net)
