@@ -2,7 +2,7 @@
 
 I'm **Maicon Radeschi**, an IT Infrastructure Engineer focused on building, operating and automating reliable infrastructure.
 
-### 🔭 What I work with
+### What I work with
 
 - Linux & Unix systems
 - Networking & Security
@@ -16,7 +16,7 @@ I'm **Maicon Radeschi**, an IT Infrastructure Engineer focused on building, oper
 ### Currently exploring
 
 - Rust
-- Shell Script <3
+- Bash / Shell scripting <3
 - TypeScript / React
 - Infrastructure as Code
 - Cryptography & secure applications
