@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there
 
 I'm **Maicon Radeschi**, an IT Infrastructure Engineer focused on building, operating and automating reliable infrastructure.
 
