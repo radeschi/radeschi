@@ -38,6 +38,6 @@ Linux, networking, virtualization, PostgreSQL, Proxmox, infrastructure, security
 
 ## Certifications
 
-[![LFCS - Linux Foundation Certified System Administrator](https://www.credly.com/embedded_badge/90fc1eec-2224-4cbf-baeb-ad36b7af238a)](https://credly.com/users/maicon-radeschi)
+[![LFCS - Linux Foundation Certified System Administrator]](https://credly.com/users/maicon-radeschi)
 
 **Linux Foundation Certified System Administrator (LFCS)**
